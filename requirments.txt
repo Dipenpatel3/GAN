@@ -2,3 +2,4 @@ Matplotlib
 keras
 pandas
 numpy
+tensorflow 
